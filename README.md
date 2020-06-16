@@ -1,1 +1,1 @@
-# Kaggle_NIH_ChestXray_2020
+# Kaggle NIH ChestXray 2020
